@@ -1,0 +1,1 @@
+I will create some kind of Landing page with instructions from The_Odin_Project while learning for Front-End Development
